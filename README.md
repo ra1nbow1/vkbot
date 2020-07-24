@@ -1,0 +1,2 @@
+# vkbot
+Simple Java bot
